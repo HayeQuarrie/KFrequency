@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>kf_icon.png</file>
+    </qresource>
+</RCC>
